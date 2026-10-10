@@ -1,0 +1,19 @@
+# Dataset
+creditcard.csv
+data/creditcard.csv
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+Untitled-1.ipynb
